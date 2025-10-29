@@ -7,7 +7,7 @@ The course focuses on applying theoretical knowledge to practical, research-orie
 ## 1. Recommendation with Collaborative Filtering
 
 * **Repository:** [github.com/jules-roques/Collaborative-Filtering](https://github.com/jules-roques/Collaborative-Filtering)
-* **Objective:** To implement, analyze, and evaluate different collaborative filtering algorithms for a recommendation task.
+* **Objective:** To analyze, implement, and evaluate different collaborative filtering algorithms for a recommendation task.
 * **Achievements:** We implemented and compared dimension reduction approaches: **Matrix Factorization** with **Alternating Least Squares (ALS)** and **Gradient Descent** as baselines, and **iterative PCA** & **iterative Kernel PCA** as advanced solutions.
 * **Keywords:** Recommendation Systems, Collaborative Filtering, Matrix Factorization, ALS, Gradient Descent, PCA.
 
