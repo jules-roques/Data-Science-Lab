@@ -11,7 +11,7 @@ The course focuses on applying theoretical knowledge to practical, research-orie
 * **Achievements:** We implemented and compared dimension reduction approaches: **Matrix Factorization** with **Alternating Least Squares (ALS)** and **Gradient Descent** as baselines, and **iterative PCA** & **iterative Kernel PCA** as advanced solutions.
 * **Keywords:** Recommendation Systems, Collaborative Filtering, Matrix Factorization, ALS, Gradient Descent, PCA.
 
-<p align="center"><img src="ratings_matrix.png" alt="Ratings" title="Ratings Matrix" width="300"/></p>
+<p align="center"><img src="images/ratings_matrix.png" alt="Ratings" title="Ratings Matrix" width="300"/></p>
 
 ## 2. Quality vs. Diversity in Generative Models
 
@@ -20,7 +20,7 @@ The course focuses on applying theoretical knowledge to practical, research-orie
 * **Achievements:** `[COMING SOON]`
 * **Keywords:** Generative Models, GANs, VAEs, Latent Space, Image Generation, MNIST, FID.
 
-<p align="center"><img src="crocodile_vs_aligator.png" alt="Ratings" title="Ratings Matrix" width="500"/></p>
+<p align="center"><img src="images/crocodile_vs_aligator.png" alt="Ratings" title="Ratings Matrix" width="500"/></p>
 
 ## 3. Adversarial Attacks in Classification Models
 
